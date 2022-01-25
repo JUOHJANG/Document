@@ -1,6 +1,6 @@
 ## 기능 명세서 (Functional Specification)
- - [UserBatch](UserBatch)
  - [Single Sign-On](SingleSign-On)
+ - [UserBatch](UserBatch)
  - [Prompt Custom](PromptCustom)
 
 ## 소프트웨어 형상관리 (Software Configuration Management)
