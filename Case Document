@@ -1,4 +1,5 @@
 ## 증상(Symptom):
+## 소스코드 통합 (Source Code Integration)
 In MicroStrategy Enterprise Manager 10.x various errors or issues may occur when performing the Data Load including Primary Key Violation database errors, 
 unexpected database locks, missing data from the Enterprise Manager tables, and other Data Load failures.
 
