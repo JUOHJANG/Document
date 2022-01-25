@@ -7,13 +7,14 @@ One potential cause for this behavior is having multiple Enterprise Manager serv
 The Enterprise Manager environment is designed to have one running service per warehouse.  
 
 ## 유형(Type)
-결함(Defect), 기능개선(Function Improvement)
+- 결함(Defect)
+- 기능개선(Function Improvement)
 
 ## 조치사항(Action)
 Ensure that each Enterprise Manager warehouse has only a single Enterprise Manager service configured to access it. 
 
 ## 배포 시점(Release Time)
- next version (major version -> v 2.0) 
- hot fix (minor version -> v 1.1)
+ - next version (major version -> v 2.0) 
+ - hot fix (minor version -> v 1.1)
  
 
