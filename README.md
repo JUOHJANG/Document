@@ -1,4 +1,4 @@
-## 소스코드 통합 (Source Code Integration)
+## 기능 명세서 (Functional Specification)
  - [UserBatch](UserBatch)
  - [Single Sign-On](SingleSign-On)
  - [Prompt Custom](PromptCustom)
