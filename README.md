@@ -4,4 +4,4 @@
  - [Prompt Custom](PromptCustom)
 
 ## 소프트웨어 형상관리 (Software Configuration Management)
- - [Case Document](CaseDocument)
+ - [Case Document](https://github.com/JUOHJANG/Document/blob/main/Case%20Document)
