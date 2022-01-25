@@ -1,4 +1,4 @@
 Source Code Integration
  - [UserBatch](UserBatch)
- - [Single Sign-On](Single Sign-On)
- - [Prompt Custom](Prompt Custom)
+ - [Single Sign-On](SingleSign-On)
+ - [Prompt Custom](PromptCustom)
