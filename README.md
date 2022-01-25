@@ -1,5 +1,5 @@
 ## 기능 명세서 (Functional Specification)
- - [Single Sign-On](SingleSign-On)
+ - [Single Sign-On](https://github.com/JUOHJANG/Document/blob/main/Single%20Sign-On.md)
  - [UserBatch](UserBatch)
  - [Prompt Custom](PromptCustom)
 
