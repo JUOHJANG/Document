@@ -1,18 +1,18 @@
-## 증상(Symptom):
+## 증상(Symptom)
 In MicroStrategy Enterprise Manager 10.x various errors or issues may occur when performing the Data Load including Primary Key Violation database errors, 
 unexpected database locks, missing data from the Enterprise Manager tables, and other Data Load failures.
 
-## 원인(Cause):
+## 원인(Cause)
 One potential cause for this behavior is having multiple Enterprise Manager services configured to access the same Enterprise Manager warehouse.  
 The Enterprise Manager environment is designed to have one running service per warehouse.  
 
-## 유형(Type):
+## 유형(Type)
 결함(Defect), 기능개선(Function Improvement)
 
-## 조치사항(Action):
+## 조치사항(Action)
 Ensure that each Enterprise Manager warehouse has only a single Enterprise Manager service configured to access it. 
 
-## 배포 시점(Release Time):
+## 배포 시점(Release Time)
  next version (major version -> v 2.0) 
  hot fix (minor version -> v 1.1)
  
