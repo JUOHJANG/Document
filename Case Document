@@ -9,7 +9,6 @@ In this configuration, the single service will run Data Loads according to the s
 should not encounter any issues with Primary Key Violations or database locks since it will be the only database client performing the database operations.
 If multiple Enterprise Manager services are configured to access the same Enterprise Manager warehouse, 
 the services will not be aware of each other and will both attempt to run scheduled Data Loads at the same time according to the schedules defined. 
-This can result in Data Load queries being run multiple times simultaneously which can cause query contention on the database, attempts to insert duplicate data, etc.
 
 ## 조치사항(ACTION):
 Ensure that each Enterprise Manager warehouse has only a single Enterprise Manager service configured to access it. 
