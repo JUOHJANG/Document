@@ -15,4 +15,4 @@ MSTR웹 솔루션에 적용할 기능들을 각 목록으로 작성 및 관리�
  - [(Test) UserBatch](UserBatch)
 ## 소프트웨어 형상관리 (Software Configuration Management)
 MSTR웹 관련 Case 문서를 관리한다.
- - [Case Document](https://github.com/JUOHJANG/Document/blob/main/Case%20Document.md)
+ - [(Doc) Case Document](https://github.com/JUOHJANG/Document/blob/main/Case%20Document.md)
