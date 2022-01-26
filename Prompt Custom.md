@@ -1,4 +1,4 @@
-## Prompt Custom
+## MicroStrategy Prompt Custom
 Prompt Custom은 MSTR의 기본 제공하는 조회UI 화면이 아닌 웹 환경에서 사용자 친화적인 커스텀 된 UI적용하기 위해 별도로 개발합니다. 
 ### 기능 정의서
 |ID|주요기능|기능정의|기능설명|
