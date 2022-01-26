@@ -1,5 +1,5 @@
 ## 기능 목록 (Function List)
-MSTR웹에 적용할 기능들을 각 목록으로 작성 및 관리한다.
+MSTR웹 솔루션에 적용할 기능들을 각 목록으로 작성 및 관리한다.
  - [Single Sign-On](https://github.com/JUOHJANG/Document/blob/main/Single%20Sign-On.md)
  - [Prompt Custom](https://github.com/JUOHJANG/Document/blob/main/Prompt%20Custom.md)
  - [UserBatch](https://github.com/JUOHJANG/Document/blob/main/UserBatch.md)
