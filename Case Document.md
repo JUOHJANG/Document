@@ -5,8 +5,7 @@ In MicroStrategy Enterprise Manager 10.x various errors or issues may occur when
 unexpected database locks, missing data from the Enterprise Manager tables, and other Data Load failures.
 
 ## 원인(Cause)
-One potential cause for this behavior is having multiple Enterprise Manager services configured to access the same Enterprise Manager warehouse.  
-The Enterprise Manager environment is designed to have one running service per warehouse.  
+One potential cause for this behavior is having multiple Enterprise Manager services configured to access the same Enterprise Manager warehouse.The Enterprise Manager environment is designed to have one running service per warehouse.  
 
 ## 유형(Type)
  - 결함(Defect)
