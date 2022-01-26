@@ -1,3 +1,5 @@
+# MOCOCO-Knowleged-base
+
 ## 증상(Symptom)
 In MicroStrategy Enterprise Manager 10.x various errors or issues may occur when performing the Data Load including Primary Key Violation database errors, 
 unexpected database locks, missing data from the Enterprise Manager tables, and other Data Load failures.
