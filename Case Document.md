@@ -1,21 +1,21 @@
-# [MOCOCO]KnowlegedBase-001
+# MOCOCO-KnowlegedBase-001
+case 내용에 대핟 간략한 설명을 작성한다. (3줄분량)
 
 ## 증상(Symptom)
-In MicroStrategy Enterprise Manager 10.x various errors or issues may occur when performing the Data Load including Primary Key Violation database errors, 
-unexpected database locks, missing data from the Enterprise Manager tables, and other Data Load failures.
+case 내용에 대한 설명을 상세히 작성한다. 경우에 따라 캡처본이나 증상이 발생한 소스코드문을 첨부하여 좀 더 확인하기 쉽게 할 수 있음 (분량은 제한없음)
 
 ## 원인(Cause)
-One potential cause for this behavior is having multiple Enterprise Manager services configured to access the same Enterprise Manager warehouse.The Enterprise Manager environment is designed to have one running service per warehouse.  
+해당 증상이 발생한 원인을 작성한다. 무엇때문에 발생하였고 무엇을 고치면 되는지 작성한다.
 
 ## 유형(Type)
- - 결함(Defect)
- - 기능개선(Function Improvement)
+ - 결함(Defect) : 결함일 경우 결함이라고 작성한다.
+ - 기능개선(Function Improvement) : 기능 개선일 경우 기능 개선이라고 작성한다.
 
 ## 조치사항(Action)
-Ensure that each Enterprise Manager warehouse has only a single Enterprise Manager service configured to access it. 
+원인을 해결하기 위한 고객사에서 진행해야할 절차들을 작성한다. 캡처본을 추가하여 이해를 돕는다. 
 
 ## 배포 시점(Release Time)
- - Next Version (major version -> v 2.0) 
- - Hot Fix (minor version -> v 1.1)
+ - Next Version (major version -> v 2.0) : 소스코드를 많이 고치거나, 작업량이 크다고 보여지면 다음버전으로 판올림을 한 후, 적용한다.
+ - Hot Fix (minor version -> v 1.1) : 간헐적인 수정이나 작업량이 적으면 핫픽스 버전으로 작성 후 바로 적용한다.
  
 
