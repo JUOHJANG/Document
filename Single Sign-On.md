@@ -1,4 +1,4 @@
-## Single Sign-On
+## MicroStrategy Single Sign-On
 Single Sign-On은 다른 응용프로그램에서 인증한 결과 내역으로 MicroStrategy 내에서 따로 로그인 하지 않고도 MicroStrategy Web 내에 액세스 할 수 있습니다.
 일반적으로는 MSTR WEB에 접속 시, ID와 Password를 입력해야 합니다.
 ### 기능 정의서
