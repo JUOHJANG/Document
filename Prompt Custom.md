@@ -7,3 +7,4 @@ Prompt Custom은 MSTR의 기본 조회UI 화면이 아닌 웹 환경에서 사�
 |F-PromptCustom-002|Combo Prompt|풀다운 UI 적용|선택박스 모양으로 값 선택|
 |F-PromptCustom-003|CheckBox Prompt|체크박스 UI 적용|체크박스 모양으로 값 선택|
 |F-PromptCustom-004|Radio Prompt|라디오버튼 UI 적용|라디오버튼 모양으로 값 선택|
+|F-PromptCustom-004|Hierarchy Prompt|계층형 구조 적용|상위 계층에서 값 선택시 하위계층에서  값 선택|
