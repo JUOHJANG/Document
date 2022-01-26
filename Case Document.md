@@ -1,4 +1,4 @@
-# [MOCOCO]KnowlegedBase-001
+[MOCOCO]KnowlegedBase-001
 
 ## 증상(Symptom)
 In MicroStrategy Enterprise Manager 10.x various errors or issues may occur when performing the Data Load including Primary Key Violation database errors, 
