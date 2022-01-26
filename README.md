@@ -1,4 +1,4 @@
-## 요구사항 목록 (Demand List)
+## 요구사항 목록 (Requirement List)
 MSTR웹에 적용할 요구사항을 작성 및 관리한다.
  - [Single Sign-On](https://github.com/JUOHJANG/Document/blob/main/Single%20Sign-On.md)
  - [Prompt Custom](https://github.com/JUOHJANG/Document/blob/main/Prompt%20Custom.md)
