@@ -3,10 +3,10 @@ Prompt Custom은 MSTR의 기본 제공하는 조회UI 화면이 아닌 웹 환�
 ### 기능 정의서
 |ID|주요기능|기능정의|기능설명|
 |---|---|---|---|
-|F-PromptCustom-001|Data Prompt|캘린더 UI 적용|캘린더 모양으로 날짜 선택|
-|F-PromptCustom-002|Combo Prompt|풀다운 UI 적용|선택박스 모양으로 값 선택|
-|F-PromptCustom-003|CheckBox Prompt|체크박스 UI 적용|체크박스 모양으로 값 선택|
-|F-PromptCustom-004|Radio Prompt|라디오버튼 UI 적용|라디오버튼 모양으로 값 선택|
-|F-PromptCustom-005|Hierarchy Prompt|계층형 구조 적용|상위 계층에서 값 선택시 연관된 내용이 하위계층에서 출력|
-|F-PromptCustom-006|비활성화|프롬프트 선택|특정 값 선택 시, 다른 프롬프트 비활성화|
-|F-PromptCustom-007|값 변경|프롬프트 선택|특정 값 선택 시, 다른|
+|Fun-promptcustom-001|Data Prompt|캘린더 UI 적용|캘린더 모양으로 날짜 선택|
+|Fun-promptcustom-002|Combo Prompt|풀다운 UI 적용|선택박스 모양으로 값 선택|
+|Fun-promptcustom-003|CheckBox Prompt|체크박스 UI 적용|체크박스 모양으로 값 선택|
+|Fun-promptcustom-004|Radio Prompt|라디오버튼 UI 적용|라디오버튼 모양으로 값 선택|
+|Fun-promptcustom-005|Hierarchy Prompt|계층형 구조 적용|상위 계층에서 값 선택시 연관된 내용이 하위계층에서 출력|
+|Fun-promptcustom-006|비활성화|프롬프트 선택|특정 값 선택 시, 다른 프롬프트 비활성화|
+|Fun-promptcustom-007|값 변경|프롬프트 선택|특정 값 선택 시, 다른|
