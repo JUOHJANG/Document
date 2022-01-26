@@ -3,5 +3,5 @@ Prompt Custom은 MSTR의 기본 조회UI 화면이 아닌 웹 환경에서 사�
 ### 기능 정의서
 |ID|주요기능|기능정의|기능설명|
 |---|---|---|---|
-|F-PromptCustom-001|Data Prompt|
-|F-PromptCustom-002|Combo Prompt|
+|F-PromptCustom-001|Data Prompt|캘린더 UI 적용|캘린더 모양으로 날짜 선택|
+|F-PromptCustom-002|Combo Prompt|풀다운 UI 적용|선택박스 모양으로 값 선택|
