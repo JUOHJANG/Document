@@ -1,8 +1,9 @@
 ## MicroStrategy Single Sign-On
-Single Sign-On은 다른 응용프로그램에서 인증한 결과 내역으로 MicroStrategy 내에서 따로 로그인 하지 않고도 MicroStrategy Web 내에 액세스 할 수 있습니다.
-일반적으로는 MSTR WEB에 접속 시, ID와 Password를 입력해야 합니다.
+Single Sign-On은 다른 응용프로그램에서 인증한 결과 내역으로 MicroStrategy 내에서 따로 로그인 하지 않고도 MicroStrategy Web 내에 액세스가 가능하다.
+일반적으로는 MSTR WEB에 접속 시엔, ID와 Password를 입력해야 한다.
 ### 기능 정의서
 |ID|주요기능|기능정의|기능설명|
 |---|---|---|---|
-|Fun-sso-001|Single Sign-On|사용자가 별도의 로그인 없이 MSTR 웹에 접속한다.|로그아웃시 웹 세션 관련 애트리뷰트 삭제|
-|Fun-sso-002|Single Sign-On|ESM 모듈을 적용한다.|SSO 기능을 적용한다.|
+|Fun-001|SSO|별도의 로그인 없이 MSTR 웹에 접속한다.|사용자는 포탈에 접속시 사용자 계정으로 자동 로그인이 되어야 한다.|
+|Fun-002|SSO|세션시간을 유지한다.|설정한 시간만큼 세션이 유지되어야 하고 그 전에 세션이 끊기면 안된다.|
+|Fun-003|SSO|로그아웃 후, 로그인이 정상적으로 되어야 한다.|로그아웃 후, 재 로그인 시 다른계정이 아닌 자신의 계정으로 로그인이 되어야 한다.|
