@@ -6,6 +6,7 @@
   - [v1.0.0](https://github.com/JUOHJANG/Document/blob/main/v1.0.0.md)
 
 ### 사이트별
+프로젝트 사이트별은 각 사이트별로 버전이 상이하다. 자세한 사항은 하단의 사이트별 링크를 참조한다.
   - 한화생명
   - 신한라이프
   - GSBN
