@@ -29,5 +29,6 @@ MSTR웹 관련 Case 문서를 관리한다.
 ## 5. 참조 사이트 및 커뮤니티 (Reference & Community)
 ###
 1. [MicroStrategy Community](https://community.microstrategy.com/s/?language=en_US)
-2. [D3.js](https://d3js.org/)
-3. [MOCOCO](https://mococo.co.kr/)
+2. [MOCOCO](https://mococo.co.kr/)
+3. [D3.js](https://d3js.org/)
+
