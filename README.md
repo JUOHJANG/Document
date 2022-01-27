@@ -9,6 +9,7 @@ MSTR Web 솔루션을 구현한다. 작업 영역은 아래와 같다.
 MSTR웹 솔루션에 적용할 기능들을 각 목록으로 작성 및 관리한다.
  - [(Fun) Single Sign-On](https://github.com/JUOHJANG/Document/blob/main/Single%20Sign-On.md)
  - [(Fun) Prompt Custom](https://github.com/JUOHJANG/Document/blob/main/Prompt%20Custom.md)
+ - [(Fun) Board](https://github.com/JUOHJANG/Document/blob/main/Prompt%20Custom.md)
  - [(Fun) UserBatch](https://github.com/JUOHJANG/Document/blob/main/UserBatch.md)
 ## 2. 개발 목록 (Development List)
 기능검토가 끝난 내용들을 토대로 개발할 내용을 작성 및 관리한다.
