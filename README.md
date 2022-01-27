@@ -26,7 +26,7 @@ MSTR웹 관련 Case 문서를 관리한다.
  - [(Doc) Case Document](https://github.com/JUOHJANG/Document/blob/main/Case%20Document.md)
  - [(Doc) Release Notes](https://github.com/JUOHJANG/Document/blob/main/ReleaseNote.md)
 
-## 5. Reference & Community
+## 5. 참조 사이트 및 커뮤니티 (Reference & Community)
 ###
 1. [MicroStrategy Community](https://community.microstrategy.com/s/?language=en_US)
 2. [D3.js](https://d3js.org/)
