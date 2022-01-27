@@ -9,7 +9,7 @@
 
 ※ Fixed : 기존의 오류 및 버그가 수정된 경우 Fixed 부분에 표기
 
-Deprecreated : 제공된 기능이 중단된 경우 Deprecreated 부분에 표기
+※ Deprecreated : 제공된 기능이 중단된 경우 Deprecreated 부분에 표기
 ### 제품별
 아래의 릴리즈 버전을 통하여 버전 관련 내용과 신규 기능 추가에 대한 정보를 확인이 가능하다.
   - [v1.2.0](#v1.2.0)
