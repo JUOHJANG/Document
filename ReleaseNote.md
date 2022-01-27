@@ -7,7 +7,7 @@
 
 ### 사이트별
 사이트별은 각 사이트별로 버전이 상이하다. 자세한 사항은 하단의 사이트별 링크를 참조한다.
-  - [한화생명](https://github.com/JUOHJANG/Document/edit/main/%ED%95%9C%ED%99%94%EC%83%9D%EB%AA%85)
+  - [한화생명](https://github.com/JUOHJANG/Document/blob/main/%ED%95%9C%ED%99%94%EC%83%9D%EB%AA%85.md)
   - [신한라이프](신한라이프)
   - [삼성전자 GSBN](삼성전자GSBN)
   - [삼성전자 데이터허브](삼성전자데이터허브)
