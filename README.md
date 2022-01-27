@@ -25,3 +25,9 @@ MSTR웹 솔루션에 적용할 기능들을 각 목록으로 작성 및 관리�
 MSTR웹 관련 Case 문서를 관리한다.
  - [(Doc) Case Document](https://github.com/JUOHJANG/Document/blob/main/Case%20Document.md)
  - [(Doc) Release Notes](https://github.com/JUOHJANG/Document/blob/main/ReleaseNote.md)
+
+## 5. Reference & Community
+###
+1. [MicroStrategy Community](https://community.microstrategy.com/s/?language=en_US)
+2. [D3.js](https://d3js.org/)
+3. [MOCOCO](https://mococo.co.kr/)
